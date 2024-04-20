@@ -1,1 +1,3 @@
 # Breast-Cancer-Diagnosis-Streamlit
+
+This Streamlit application serves as a breast cancer diagnosis tool, leveraging machine learning to predict whether a breast mass is benign or malignant based on cytology lab measurements. Users can input data either manually through sliders or connect it directly to their lab for analysis. The application features a radar chart visualization illustrating various cell nuclei measurements and provides predictions along with probabilities. It's designed to assist medical professionals in diagnosis, emphasizing its supplementary role alongside professional assessment.
